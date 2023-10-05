@@ -1,0 +1,27 @@
+body{
+    margin-left: 25%;
+}
+
+.container{
+    display: flex;
+}
+
+.border{
+    border: black solid .5px;
+    width: 10px;
+    height: 10px;
+}
+
+.black{
+    background-color: black;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.fake{
+    border: rgb(255, 255, 255) solid .5px;
+    width: 10px;
+    height: 10px;
+}
